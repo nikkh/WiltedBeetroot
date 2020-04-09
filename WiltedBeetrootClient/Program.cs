@@ -2,7 +2,7 @@
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace MathClientSharp
+namespace WiltedBeetrootClient 
 {
     
     class Program
